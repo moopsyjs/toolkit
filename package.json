@@ -1,0 +1,19 @@
+{
+  "name": "@moopsyjs/utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main/index.js",
+  "types": "./main/index.d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
